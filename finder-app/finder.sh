@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 if [ "$#" -ne 2 ]; then
     echo "Usage: finder.sh <path to search> <search string>."
     exit 1
